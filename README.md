@@ -8,5 +8,5 @@ This repository contains a filtered local source snapshot. Application builds an
 
 Credential files, detected credential values, dependencies, build outputs and large backup archives were excluded. Configure your own services and secrets before running.
 
-The local project contains index.html and css/style.css only. Image and other linked resource availability has not been verified.
+The local project contains index.html and css/style.css only. Nine image files referenced by index.html are missing from the original local source. The website therefore has incomplete image assets.
 
